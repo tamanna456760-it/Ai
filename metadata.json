@@ -1,0 +1,6 @@
+{
+  "name": "Boot AI",
+  "description": "Design, configure, and chat with customized AI bots and copilots powered by Gemini 3.8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
